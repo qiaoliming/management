@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/base/base.iml" filepath="$PROJECT_DIR$/base/base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/layui/layui.iml" filepath="$PROJECT_DIR$/layui/layui.iml" />
       <module fileurl="file://$PROJECT_DIR$/manager.iml" filepath="$PROJECT_DIR$/manager.iml" />
     </modules>
   </component>

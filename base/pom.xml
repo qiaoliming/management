@@ -17,7 +17,7 @@
     <properties>
         <java.version>11</java.version>
     </properties>
-    application.yml
+
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
